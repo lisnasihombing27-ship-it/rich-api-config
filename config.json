@@ -1,3 +1,6 @@
 {
-  "api_url": "http://miwax.shopryzen.my.id:2596"
+  "api_endpoint": "http://mimax.shopryzen.my.id:2596",
+  "api_version": "1.0",
+  "updated_at": "2026-09-21T12:00:00Z",
+  "status": "active"
 }
