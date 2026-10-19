@@ -1,4 +1,3 @@
 {
-  "api_endpoint": "http://panel2.kaira.my.id:26137",
-  "ws_endpoint": "ws://panel2.kaira.my.id:26137"
+  "api_base_url": "http://console.jhonaleystore.id:2467"
 }
